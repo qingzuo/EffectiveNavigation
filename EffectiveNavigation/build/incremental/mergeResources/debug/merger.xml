@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/richard/tmp/EffectiveNavigationProject/EffectiveNavigation/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/home/richard/tmp/EffectiveNavigationProject/EffectiveNavigation/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/richard/tmp/EffectiveNavigationProject/EffectiveNavigation/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                path="/home/richard/tmp/EffectiveNavigationProject/EffectiveNavigation/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                name="activity_collection_demo"
+                path="/home/richard/tmp/EffectiveNavigationProject/EffectiveNavigation/src/main/res/layout/activity_collection_demo.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="/home/richard/tmp/EffectiveNavigationProject/EffectiveNavigation/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_section_launchpad"
+                path="/home/richard/tmp/EffectiveNavigationProject/EffectiveNavigation/src/main/res/layout/fragment_section_launchpad.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_section_dummy"
+                path="/home/richard/tmp/EffectiveNavigationProject/EffectiveNavigation/src/main/res/layout/fragment_section_dummy.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_collection_object"
+                path="/home/richard/tmp/EffectiveNavigationProject/EffectiveNavigation/src/main/res/layout/fragment_collection_object.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="/home/richard/tmp/EffectiveNavigationProject/EffectiveNavigation/src/main/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="ic_launcher"
+                path="/home/richard/tmp/EffectiveNavigationProject/EffectiveNavigation/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                path="/home/richard/tmp/EffectiveNavigationProject/EffectiveNavigation/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/home/richard/tmp/EffectiveNavigationProject/EffectiveNavigation/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                name="ic_launcher"
+                path="/home/richard/tmp/EffectiveNavigationProject/EffectiveNavigation/src/main/res/drawable-ldpi/ic_launcher.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                path="/home/richard/tmp/EffectiveNavigationProject/EffectiveNavigation/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Action Setting
+                </string>
+                <string name="demo_external_activity" >Demo External Activity
+                </string>
+                <string name="app_name" >Effective Navigation
+                </string>
+                <string name="dummy_section_text" >Section %1d is just a dummy section.
+                </string>
+                <string name="demo_collection" >Demo Collection
+                </string>
+            </file>
+            <file
+                path="/home/richard/tmp/EffectiveNavigationProject/EffectiveNavigation/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/home/richard/tmp/EffectiveNavigationProject/EffectiveNavigation/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                name="ic_launcher"
+                path="/home/richard/tmp/EffectiveNavigationProject/EffectiveNavigation/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+        </source>
+        <source path="/home/richard/tmp/EffectiveNavigationProject/EffectiveNavigation/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/richard/tmp/EffectiveNavigationProject/EffectiveNavigation/src/debug/res" />
+    </dataSet>
+
+</merger>
